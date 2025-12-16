@@ -28,3 +28,5 @@ A lightweight command-line calculator built with Java. This project demonstrates
 
 * `Main.java`: Handles user interaction and input.
 * `Calculator.java`: Contains the logic for arithmetic operations.
+---
+*Developed for the University of Piraeus*
